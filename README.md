@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ophelia Goldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=opheliagoldstein&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ophelia Goldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=opheliagoldstein&include_all_commits=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
